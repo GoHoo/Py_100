@@ -5,11 +5,14 @@ b = input("b: ")
 
 ####################################
 #Write your code below this line 👇
+"""without the hints
+c = a
+e = b
+f = a
+"""
 c = a
 a = b
 b = c
-
-
 #Write your code above this line 👆
 ####################################
 
