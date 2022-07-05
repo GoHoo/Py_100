@@ -6,8 +6,6 @@ elif height == 119:
   print("Take your sit")
 else:
   print("Come when youre taller")
-  
-  
 ####################################
 height = int(input("What is your height in cm? "))
 age = int(input("How old are you? "))
@@ -57,7 +55,6 @@ elif bmi < 35:
   print(f"Your BMI is {bmi}, you are obese.")
 else:
   print(f"Your BMI is {bmi}, you are clinically obese.")
-  
 
 #####################
 # 🚨 Don't change the code below 👇
